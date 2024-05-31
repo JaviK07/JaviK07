@@ -1,6 +1,6 @@
 ### Hi, I'm Javier Kadjo! 👋
 
-A year ago, I ventured into software development, and over time, I found myself becoming enthusiastic about data analysis.
+Since 2022 I ventured into software development, and over time, I found myself becoming enthusiastic about data analysis.
 
 ## About Me
 
